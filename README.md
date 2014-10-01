@@ -6,6 +6,7 @@ A mobile app that aggregates multiple social networks.
 社交网络聚合器
 
 WIKI用于放置服务端与客户端的详细通讯协议！与需求。
+README 用于放置系统简介与API概览
 
 #支持平台：
 *新浪微博
